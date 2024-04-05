@@ -1,3 +1,5 @@
+// Paste it in empty has MainCamera or object you need control
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
