@@ -1,4 +1,5 @@
 // Paste it in empty has MainCamera or object you need control
+// Note : Your empty has Main camera or object you need control must have Character Controller
 
 using System.Collections;
 using System.Collections.Generic;
